@@ -28,10 +28,23 @@ class Calculator:
         return result
 
 
-
 if __name__ == '__main__':
     operation = Calculator()
     operation.add()
     operation.subtract()
+<<<<<<< HEAD
     operation.multiply()
     operation.divide()
+||||||| 89499b6
+    operation.multiply()
+    operation.divide()
+=======
+    
+
+
+
+
+
+
+
+>>>>>>> feature1
