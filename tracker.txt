@@ -1,0 +1,6 @@
+fruits
+mango 
+cherry
+pinking 
+stash
+stuff
